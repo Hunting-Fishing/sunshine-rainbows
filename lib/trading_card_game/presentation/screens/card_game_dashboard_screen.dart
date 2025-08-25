@@ -16,6 +16,14 @@ class CardGameDashboardScreen extends StatelessWidget {
               onPressed: () => context.go('/game_modes/trading_card_game/collection'),
               child: const Text('View Collection'),
             ),
+            ElevatedButton(
+              onPressed: () => context.go('/game_modes/trading_card_game/campaign'),
+              child: const Text('Start Campaign'),
+            ),
+            ElevatedButton(
+              onPressed: () => context.go('/game_modes/trading_card_game/pvp'),
+              child: const Text('Start PVP Battle'),
+            ),
           ],
         ),
       ),

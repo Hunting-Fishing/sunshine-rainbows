@@ -23,7 +23,6 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider<ThemeProvider>(create: (_) => ThemeProvider()),
         Provider<CardRepository>(
           create: (_) => LocalAssetCardRepository(
-            // Provide your JSON path if you have one; otherwise mock data is used.
             assetPath: 'assets/trading_card_game/cards.json',
           ),
         ),
