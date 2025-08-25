@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib/features/puzzle_game/presentation/screens/puzzle_game_screen.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/features/puzzle_game/presentation/screens/puzzle_game_screen.dart"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138491138893",
+    "project_id": "multidimensionalrabbit",
+    "storage_bucket": "multidimensionalrabbit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138491138893:android:4eef4b3807e8d4a2b59d04",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30bs8fPUGNrvSg6nge7ICHxGWvT3tCIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
